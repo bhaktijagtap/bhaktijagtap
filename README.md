@@ -3,12 +3,11 @@
 -  full-stack development - Core Java, HTML, CSS, JavaScript
 -   Database - MYSQL.
 - 🌱 I’m currently learning
--  Frontend - Angular, ReacyJS
+-  Frontend - Angular, TypeScript
 -  Backend - Servlet, JSP, Spring, Spring-boot, Hibernate
--  Database - MongoDB
+-  Database - MYSQL
 - 💞️ I’m looking to collaborate on open-source projects related to front-end development.
 - 📫 Connect on LinkedIn : https://www.linkedin.com/in/bhakti-jagtap-397685293 .
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 
