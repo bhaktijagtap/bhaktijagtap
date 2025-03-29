@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhaktijagtap,a passionate computer science engineering student. I love diving into code and exploring new technologies.
-- 👀 I’m interested in web development -  HTML, CSS, JavaScript
--  full-stack development - Core Java, HTML, CSS, JavaScript
+- 👀 I’m interested in Full Stack Java development 
+-  full-stack development - Core Java, HTML, CSS, JavaScript, Hibernate, Spring, Spring Boot, Spring MVC, Amgular, Bootstrap, Microdervices
 -   Database - MYSQL.
 - 🌱 I’m currently learning
 -  Frontend - Angular, TypeScript
