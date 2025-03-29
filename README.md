@@ -8,6 +8,7 @@
 -  Database - MYSQL
 - 💞️ I’m looking to collaborate on open-source projects related to front-end development.
 - 📫 Connect on LinkedIn : https://www.linkedin.com/in/bhakti-jagtap-397685293 .
+- Connect On LeetCode where I face Challenges : https://leetcode.com/u/bhakti_jagtap/
 
 
 
