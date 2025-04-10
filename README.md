@@ -57,9 +57,7 @@
 
 ![Bhakti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhaktijagtap&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaktijagtap&layout=compact&theme=radical)
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaktijagtap&theme=tokyonight" alt="Bhakti's GitHub Streak" />
-</p>
+
 ---
 
 ### 📜 Certifications
@@ -81,6 +79,6 @@ Feel free to connect, collaborate or just say hi! 😊
 - 💼 [LinkedIn](https://www.linkedin.com/in/bhakti-jagtap-397685293)  
 - 💻 [GitHub](https://github.com/bhaktijagtap)
 - 🧠[Leetcode](https://leetcode.com/u/bhakti_jagtap/)
-📧 Email: jagtapbhakti22@gmail.com  
+- 📧 Email: jagtapbhakti22@gmail.com  
 
  💡 *"Code is like humor. When you have to explain it, it’s bad."*
