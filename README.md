@@ -9,10 +9,11 @@
 <p align="center">
   <a href="mailto:jagtapbhakti22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/bhakti-jagtap-397685293"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://bhaktijagtap.dev"> <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a>
   <a href="https://github.com/bhaktijagtap"><img src="https://img.shields.io/github/followers/bhaktijagtap?label=Follow&style=social"/></a>
 </p>
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-121212?style=flat&logo=google-chrome&logoColor=white)]([https://bhaktijagtap.dev](https://bhaktijagtap.github.io/Bhakti_Portfolio/)).
+
 
 ---
 
