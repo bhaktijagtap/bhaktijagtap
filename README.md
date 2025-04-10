@@ -76,9 +76,13 @@
 ### 📬 Let's Connect!
 
 Feel free to connect, collaborate or just say hi! 😊 
-- 💼 [LinkedIn](https://www.linkedin.com/in/bhakti-jagtap-397685293)  
-- 💻 [GitHub](https://github.com/bhaktijagtap)
-- 🧠[Leetcode](https://leetcode.com/u/bhakti_jagtap/)
-- 📧 Email: jagtapbhakti22@gmail.com  
+### 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bhakti-jagtap-397685293)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/bhaktijagtap)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/bhakti_jagtap/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-121212?style=flat&logo=google-chrome&logoColor=white)]([https://bhaktijagtap.dev](https://bhaktijagtap.github.io/Bhakti_Portfolio/))
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jagtapbhakti22@gmail.com)
+
 
  💡 *"Code is like humor. When you have to explain it, it’s bad."*
