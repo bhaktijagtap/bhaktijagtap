@@ -68,10 +68,9 @@
 - ✅ Java + Spring Boot, REST API, Microservices – Udemy (2024)
 
 ---
-<p> <a href="https://leetcode.com/u/bhakti_jagtap/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="30" style="vertical-align: middle;"/> </a> <b> I enjoy sharpening my problem-solving skills daily on <a href="https://leetcode.com/u/bhakti_jagtap/" target="_blank">LeetCode</a>!</b> </p> <p align="center"> <img src="https://leetcard.jacoblin.cool/bhakti_jagtap?theme=dark&font=Fira+Code&ext=contest" alt="LeetCode Profile"/> </p>
  
 ### 📘 LeetCode Stats
-
+<a href="https://leetcode.com/u/bhakti_jagtap/" target="_blank">LeetCode</a>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/bhakti_jagtap?theme=dark&font=Fira+Code&ext=contest" alt="LeetCode Profile"/>
 </p>
