@@ -50,7 +50,9 @@
 ### 📈 GitHub Stats
 
 ![Bhakti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhaktijagtap&show_icons=true&theme=radical)
-![Bhakti's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhaktijagtap&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaktijagtap&theme=tokyonight" alt="Bhakti's GitHub Streak" />
+</p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaktijagtap&layout=compact&theme=radical)
 
 ---
