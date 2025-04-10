@@ -13,7 +13,7 @@
 - 🌱 I’m currently building **Smart E-Commerce Platform** with Spring Boot + Angular + AI
 - 📚 Passionate about **AI, Backend Systems, and Frontend Animations**
 - 💼 Open to Full Stack Developer opportunities
-- ✨ Love creating projects like **DocsGPT, Online Voting, and Voice Calculators**
+- ✨ Love creating projects like **Online Voting, and Voice Calculators**
 - 📍 Based in Pune, Maharashtra
 
 ---
