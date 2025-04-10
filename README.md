@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Bhakti+Jagtap;Java+%7C+Java+Dev+%7C+Spring+Boot;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7C01B&width=800&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Bhakti+Jagtap;Full+Stack+Java+Developer+%7C+Spring+Boot+%7C;Welcome+to+my+GitHub+Profile+%F0%9F%8C%9F;Explore+my+projects+and+connect+with+me!" alt="Typing SVG" />
 </h1>
+
 
 
 <h3 align="center">Full Stack Java Developer | Passionate about building smart, scalable, and AI-powered web apps</h3>
