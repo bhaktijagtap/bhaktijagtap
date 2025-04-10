@@ -68,7 +68,8 @@
 - ✅ Java + Spring Boot, REST API, Microservices – Udemy (2024)
 
 ---
-🧠[Leetcode](https://leetcode.com/u/bhakti_jagtap/) 
+<p> <a href="https://leetcode.com/u/bhakti_jagtap/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="30" style="vertical-align: middle;"/> </a> <b> I enjoy sharpening my problem-solving skills daily on <a href="https://leetcode.com/u/bhakti_jagtap/" target="_blank">LeetCode</a>!</b> </p> <p align="center"> <img src="https://leetcard.jacoblin.cool/bhakti_jagtap?theme=dark&font=Fira+Code&ext=contest" alt="LeetCode Profile"/> </p>
+ 
 ### 📘 LeetCode Stats
 
 <p align="center">
@@ -77,7 +78,10 @@
 
 ### 📬 Let's Connect!
 
-Feel free to connect, collaborate or just say hi! 😊  
+Feel free to connect, collaborate or just say hi! 😊 
+- 💼 [LinkedIn](https://www.linkedin.com/in/bhakti-jagtap-397685293)  
+- 💻 [GitHub](https://github.com/bhaktijagtap)
+- 🧠[Leetcode](https://leetcode.com/u/bhakti_jagtap/)
 📧 Email: jagtapbhakti22@gmail.com  
 
  💡 *"Code is like humor. When you have to explain it, it’s bad."*
