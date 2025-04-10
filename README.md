@@ -55,28 +55,6 @@
 
 ---
 
-### 🚀 Projects I'm Proud Of
-
-- 🗳️ **Online Voting System**  
-  PHP, HTML, CSS, JS, MySQL | Secure authentication, real-time counting  
-  [🔗 GitHub](https://github.com/bhaktijagtap/TrueVote)
-
-- 📚 **Class Attendance Track System**  
-  Java, Spring Boot, Hibernate | Automated REST API based tracking
-
-- 🧠 **DocsGPT-like AI Q&A System** *(WIP)*  
-  JSON, TypeScript, SQL | GPT answers questions from uploaded PDFs
-
-- 🎙️ **Talkulator**  
-  Voice-activated calculator with speech-to-text + TTS  
-  [🔗 GitHub](https://github.com/bhaktijagtap/Voice-Typed-Calculator)
-
-- 🎨 **BG Color Changer**  
-  Interactive JS tool for dynamic background effects  
-  [🔗 GitHub](https://github.com/bhaktijagtap/Background-Color-Changer)
-
----
-
 ### 📜 Certifications
 
 - ✅ Full Stack Java Development – The Kiran Academy (2024)  
@@ -84,19 +62,8 @@
 
 ---
 
-### 🎓 Education
-
-- 🎓 **B.E. in Computer Science** – DBATU (2021–2024) – 7.54 CGPA  
-- 📘 **Diploma in Computer Engineering** – MSBTE (2018–2021) – 81.49%  
-- 🏫 **SSC** – Maharashtra State Board – 86.40%
-
----
-
 ### 📬 Let's Connect!
 
 Feel free to connect, collaborate or just say hi! 😊  
 📧 Email: jagtapbhakti22@gmail.com  
-📍 Pune, Maharashtra
-
----
 
