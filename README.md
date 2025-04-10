@@ -67,3 +67,4 @@
 Feel free to connect, collaborate or just say hi! 😊  
 📧 Email: jagtapbhakti22@gmail.com  
 
+ 💡 *"Code is like humor. When you have to explain it, it’s bad."*
