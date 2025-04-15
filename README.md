@@ -4,7 +4,7 @@
 
 
 
-<h3 align="center">Full Stack Java Developer | Passionate about building smart, scalable, and AI-powered web apps</h3>
+<h3 align="center">Full Stack Java Developer | Passionate about building smart, scalable, web apps</h3>
 
 <p align="center">
   <a href="mailto:jagtapbhakti22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
