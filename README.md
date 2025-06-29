@@ -68,10 +68,8 @@
     <img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
   </a>
 </p>
-
-- 🟢 **5 Star** in Java (if applicable)  
+ 
 - 🧩 Participated in [HackerRank Contests](https://www.hackerrank.com/jagtapbhakti22)  
-- 📂 Solved multiple **DSA & Java Challenges**
 
 ### 📘 LeetCode Stats
 <a href="https://leetcode.com/u/bhakti_jagtap/" target="_blank">LeetCode</a>
