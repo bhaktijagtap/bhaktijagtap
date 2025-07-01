@@ -18,7 +18,7 @@
 ---
 
 ### 💫 About Me
-- 🌱 I’m currently building **Smart E-Commerce Platform** with Spring Boot + Angular 
+- 🌱  
 - 📚 Passionate about **Backend Systems, and Frontend**
 - 💼 Open to Full Stack Developer opportunities
 - ✨ Love creating projects like **ClassTrack, and Voice Calculators**
