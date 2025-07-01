@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7C01B&width=800&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Bhakti+Jagtap;Full+Stack+Java+Developer+%7C+Spring+Boot;Welcome+to+my+GitHub+Profile+%F0%9F%8C%9F;Explore+my+projects+and+connect+with+me!" alt="Typing SVG" />
 </h1>
 
+![Profile views](https://komarev.com/ghpvc/?username=bhaktijagtap&label=Profile%20views&color=0e75b6&style=flat)
 
 
 <h3 align="center">Full Stack Java Developer | Passionate about building smart, scalable, web apps</h3>
