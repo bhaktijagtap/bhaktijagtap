@@ -115,7 +115,7 @@
 
 # 📜 Certifications
 
-✅ **Software Testing (Manual Testing + Selenium with Java)** – QSpiders Pune  
+✅ **Software Testing (Manual Testing + Selenium with Java)** 
 
 ---
 
