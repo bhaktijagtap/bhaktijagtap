@@ -28,7 +28,6 @@
 - ⚙️ Learning **Automation Testing using Selenium WebDriver with Java**
 - 🔍 Experienced in **API Testing using Postman**
 - 🗄️ Good knowledge of **SQL and Database Validation**
-- 🐞 Experienced in **Bug Reporting and Defect Tracking**
 - 💼 Open to **Software Test Engineer / QA Engineer opportunities**
 - 📍 Based in **Pune, Maharashtra**
 
