@@ -60,28 +60,6 @@
 
 ---
 
-# 🧪 Testing Projects
-
-### 📌 Class Attendance Tracking System Testing
-- Designed and executed **manual test cases**
-- Performed **functional and regression testing**
-- Validated **database entries using SQL queries**
-- Conducted **API testing using Postman**
-- Reported and tracked defects
-
-### 📌 Online Voting System Testing
-- Tested **user authentication and voting workflow**
-- Executed **functional and UI test cases**
-- Verified **vote accuracy and database records**
-- Logged defects and verified fixes
-
-### 📌 Voice Activated Calculator Testing
-- Tested **speech recognition input**
-- Verified **calculation accuracy**
-- Performed **edge-case testing**
-
----
-
 # 📈 GitHub Stats
 
 ![Bhakti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhaktijagtap&show_icons=true&theme=radical)
@@ -115,20 +93,6 @@
 # 📜 Certifications
 
 ✅ **Software Testing (Manual Testing + Selenium with Java)** 
-
----
-
-# 📬 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bhakti-jagtap-397685293)
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/bhaktijagtap)
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/bhakti_jagtap/)
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-121212?style=flat&logo=google-chrome&logoColor=white)](https://bhaktijagtap.github.io/Bhakti_Portfolio/)
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jagtapbhakti22@gmail.com)
 
 ---
 
